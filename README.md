@@ -13,4 +13,4 @@ Then go to this url on your browser, you will see the output: http://localhost:1
 <br>
 
 # Docker Hub repository link
-The push refers to repository docker.io/12345234/sca-cloud-school-application
+https://hub.docker.com/repository/docker/12345234/sca-cloud-school-application
